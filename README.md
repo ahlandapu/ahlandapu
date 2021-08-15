@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on idk 
 - 📫 How to reach me ???
 
-- [LinkedIn](https://www.linkedin.com/in/ahlanda-putra/)
-- [YouTube](https://www.youtube.com/channel/UC7EyBmILrKAccrpy_kqc-8A)
+*[LinkedIn](https://www.linkedin.com/in/ahlanda-putra/)
+*[YouTube](https://www.youtube.com/channel/UC7EyBmILrKAccrpy_kqc-8A)
 
 <!---
 ahlandapu/ahlandapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
