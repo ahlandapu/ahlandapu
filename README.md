@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on idk 
 - 📫 How to reach me ???
 
-*[LinkedIn](https://www.linkedin.com/in/ahlanda-putra/)*
+*[LinkedIn](https://www.linkedin.com/in/ahlanda-putra/)*<br>
 *[YouTube](https://www.youtube.com/channel/UC7EyBmILrKAccrpy_kqc-8A)*
 
 <!---
