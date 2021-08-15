@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ahlandapu
 - 👀 I’m interested in Programming,Networking,and Security
 - 🌱 I’m currently learning Networking and Security
-- 💞️ I’m looking to collaborate on idk 
-- 📫 How to reach me ???
+- 💞️ I’m looking to collaborate on ..
 
 *[LinkedIn](https://www.linkedin.com/in/ahlanda-putra/)*<br>
 *[YouTube](https://www.youtube.com/channel/UC7EyBmILrKAccrpy_kqc-8A)*
